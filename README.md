@@ -40,9 +40,9 @@
 </p>
   
 ### 📊 GitHub Stats:
-![KalyaniWagh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KalyaniWagh-DS&theme=radical&hide_border=false)<br/>
-![KalyaniWagh's Stats](https://github-readme-stats.vercel.app/api?username=KalyaniWagh-DS&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
-![KalyaniWagh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalyaniWagh-DS&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
+![KalyaniWagh's Streak](https://github-readme-streak-stats.herokuapp.com/?user=KalyaniWagh03&theme=radical&hide_border=false)<br/>
+![KalyaniWagh's Stats](https://github-readme-stats.vercel.app/api?username=KalyaniWagh03&theme=radical&show_icons=true&hide_border=false&count_private=true)<br/>
+![KalyaniWagh's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KalyaniWagh03&theme=radical&show_icons=true&hide_border=false&layout=compact)<br/>
 [![](https://visitcount.itsvg.in/api?id=sunidhi014&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
 
 <p align="left">
